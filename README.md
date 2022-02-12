@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kelvin-cykong
-- 👀 I’m interested in hardware development, ML and Neural Network in Image Processing, NLP
-- 🌱 I’m currently learning semiconductor on ML and Deep Learning.
+- 👀 I’m interested in Natural Language Processing in English and Cantonese, data science in hardware development, Machine Learning and Neural Network. Image and Video Processing.
+- 🌱 I’m currently learning NLP text analysis and extract useful information for business analytics.
+- 😎 I'm currently working on a NLP data project and model building for product classifications.
 - 💞️ I’m looking to collaborate on some NLP projects and Imaging projects.
 - 📫 How to reach me : email: ckong@ieee.org
 
