@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvin-cykong
+- 👋 Hi, I’m Kelvin Kong @kelvin-cykong
 - 👀 I’m interested in Natural Language Processing in English and Cantonese, data science in hardware development, Machine Learning and Neural Network. Image and Video Processing.
 - 🌱 I’m currently learning NLP text analysis and extract useful information for business analytics.
 - 😎 I'm currently working on a NLP data project and model building for product classifications.
