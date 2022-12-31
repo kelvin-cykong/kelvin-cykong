@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kelvin Kong @kelvin-cykong
-- 👀 I’m interested in Natural Language Processing in English and Cantonese, data science in hardware development, Machine Learning and Neural Network. Image and Video Processing.
+- 👀 I’m interested in feature extraction and text classification using machine learning and deep learning in Natural Language Processing (NLP) in English, and Cantonese.
 - 🌱 I’m currently working in UC Davis as a Software Developer in NLP in medical science.
-- 😎 I'm currently working on a NLP data project and model building for product classifications.
-- 💞️ I’m looking to collaborate on some NLP projects and Imaging projects.
+- 😎 For side project: I'm working on twitter text API extraction and sentiment analysis with different social events.
+- 💞️ I’m looking to collaborate with others on Machine Learning and Deep Learning Projects in NLP.
 - 📫 How to reach me : email: ckong@ieee.org
 
 <!---
