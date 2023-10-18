@@ -7,6 +7,7 @@
 - 😎 For side project: I'm working on twitter text API extraction and sentiment analysis with different social events.
 - 💞️ I’m looking to collaborate with others on Machine Learning and Deep Learning Projects in NLP.
 - 📫 How to reach me : email: ckong@ieee.org
+- My Personal Page: https://kelvin-cykong.github.io/
 
 - Current Project:
   - Integrating Machine Learning and Data Visualization with Dash Web Design.
