@@ -4,14 +4,15 @@
     - Supervised and Unsupervised Machine Learning, Neural Network Applications integrated with Web Designs.
     - Dash, Flask, Plotly Data Visualization and Web Development.
 - 🌱 I’m currently working in UC Davis as a Application Developer with Machine Learning in NLP in medical science.
-- 😎 For side project: I'm working on twitter text API extraction and sentiment analysis with different social events.
+- 😎 For side project:
+  - Current Project:
+      - Integrating Machine Learning and Data Visualization with Dash Web Design.
+      - Working data extracted from [California Open Data Portal](https://data.ca.gov/)
+      - Text extraction from social media and sentiment analysis with different social events.
 - 💞️ I’m looking to collaborate with others on Machine Learning and Deep Learning Projects in NLP.
 - 📫 How to reach me : email: ckong@ieee.org
 - My Personal Page: https://kelvin-cykong.github.io/
 
-- Current Project:
-  - Integrating Machine Learning and Data Visualization with Dash Web Design.
-  - Working data extracted from [California Open Data Portal](https://data.ca.gov/)
 
 <!---
 kelvin-cykong/kelvin-cykong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
