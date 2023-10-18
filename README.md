@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
     - Feature extraction and text classification using machine learning and deep learning in Natural Language Processing (NLP) in English, and Cantonese.
     - Supervised and Unsupervised Machine Learning, Neural Network Applications integrated with Web Designs.
-    - Dash, Flask, Plotly Data Visualization and Web Development.
+    - Dash, Django, Flask, Plotly Data Visualization and Web Development.
 - 🌱 I’m currently working in UC Davis as a Application Developer with Machine Learning in NLP in medical science.
 - 😎 For side project:
   - Current Project:
