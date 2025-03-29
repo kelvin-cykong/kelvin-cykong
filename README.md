@@ -7,7 +7,6 @@
 - 😎 For side project:
   - Current Project:
       - Integrating Machine Learning and Data Visualization with Dash Web Design.
-      - Working data extracted from [California Open Data Portal](https://data.ca.gov/)
       - Text extraction from social media and sentiment analysis with different social events.
 - 💞️ I’m looking to collaborate with others on Machine Learning and Deep Learning Projects in NLP.
 - 📫 How to reach me : email: cykongkelvin@gmail.com
