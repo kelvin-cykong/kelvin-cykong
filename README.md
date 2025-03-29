@@ -10,7 +10,7 @@
       - Working data extracted from [California Open Data Portal](https://data.ca.gov/)
       - Text extraction from social media and sentiment analysis with different social events.
 - 💞️ I’m looking to collaborate with others on Machine Learning and Deep Learning Projects in NLP.
-- 📫 How to reach me : email: ckong@ieee.org
+- 📫 How to reach me : email: cykongkelvin@gmail.com
 - My Personal Page: https://kelvin-cykong.github.io/
 
 
