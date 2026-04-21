@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin Kong @kelvin-cykong
-- I am currently pursuring my second master degree, Master of Information Technology at The University of Queensland, Australia.
+- I am currently pursuring my second master's degree, Master of Information Technology at The University of Queensland, Australia.
 - 👀 I’m interested in:
     - Feature extraction and text classification using machine learning and deep learning in Natural Language Processing (NLP) in English, and Cantonese.
     - Supervised and Unsupervised Machine Learning, Neural Network Applications integrated with Web Designs.
