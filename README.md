@@ -5,7 +5,7 @@
     - Supervised and Unsupervised Machine Learning, Neural Network Applications integrated with Web Designs.
     - AI Integration into Medical and Health Systems.
     - Dash, Django, Flask, Plotly Data Visualization and Web Development.
-- 🌱 My most woorking experience was in UC Davis as a Application Developer with Machine Learning in NLP in medical science.
+- 🌱 My most working experience was in UC Davis, California, USA as a Application Developer with Machine Learning in NLP in medical science.
 - 😎 For side project:
   - Current Project:
       - Integrating Machine Learning and Data Visualization with Dash Web Design.
