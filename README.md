@@ -17,7 +17,8 @@
     - Master of Information Technology | The University of Queensland, Australia | Expected Nov 2027
     - Master of Science in Statistics, Data Science | California State of University, East Bay, United States of America | Graduated in May 2021 with GPA 3.88/4.0
     - Bachelor of Engineering in Electronic Engineering | The Chinese University of Hong Kong, Hong Kong SAR | Graduated in July 2019 with Second Class Honour Lower Division
-
+- My Publications:
+    - Kong CY, Vasquez P, Farhoodimoghadam M, Brandt C, Brown TC, Reagan KL, Zwingenberger A, Keller SM. Anna: an open-source platform for real-time integration of machine learning classifiers with veterinary electronic health records. BMC Vet Res. 2025 Oct 2;21(1):557. doi: 10.1186/s12917-025-05000-7. PMID: 41039394; PMCID: PMC12492907.
 
 <!---
 kelvin-cykong/kelvin-cykong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
