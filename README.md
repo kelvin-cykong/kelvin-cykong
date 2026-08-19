@@ -14,7 +14,7 @@
 - 📫 How to reach me : email: cykongkelvin@gmail.com
 - My Personal Page: https://kelvin-cykong.github.io/
 - My Academic Background:
-    - Master of Information Technology | The University of Queensland, Australia | Expected Nov 2027
+    - Master of Information Technology | The University of Queensland, Australia | GPA: 6.5/7.0 Expected Graduation: Nov 2027
     - Master of Science in Statistics, Data Science | California State of University, East Bay, United States of America | Graduated in May 2021 with GPA 3.88/4.0
     - Bachelor of Engineering in Electronic Engineering | The Chinese University of Hong Kong, Hong Kong SAR | Graduated in July 2019 with Second Class Honour Lower Division
 - My Publications:
